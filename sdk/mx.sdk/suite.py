@@ -464,6 +464,7 @@ suite = {
               "bin/set-xcode-analyzer",
               "share",
               "include/clang",
+              "include/c++",
               "include/clang-c",
               "include/lld",
               "include/llvm",
